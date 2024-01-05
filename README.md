@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_exponent" target="blank"><img src="https://img.shields.io/twitter/follow/dev_exponent?logo=twitter&style=for-the-badge" alt="dev_exponent" /></a> </p>
 
-- 🔭 I’m currently working **with React JS, Bootstrap V5, AOS, and Framer motion and using them to build fun, user centered creative Web Projects**
+- 🔭 I’m currently working **with React JS, Bootstrap V5,Tailwind, AOS, and Framer motion and using them to build fun, user centered creative Web Projects**
 
 - 🌱 I’m currently learning **more of React, ContextAPI, redux, framer motion, Firebase**
 
