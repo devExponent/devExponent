@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/dev_exponent" target="blank"><img src="https://img.shields.io/twitter/follow/dev_exponent?logo=twitter&style=for-the-badge" alt="dev_exponent" /></a> </p>
 
-- 🔭 I’m currently working **with React JS, Bootstrap V5,Tailwind, AOS, and Framer motion and using them to build fun, user centered creative Web Projects**
+- 🔭 I’m currently working **with React JS, Bootstrap V5, Tailwind Css, AOS, and Framer motion and using them to build fun, user-centered creative Web Projects**
 
-- 🌱 I’m currently learning **more of React, ContextAPI, redux, framer motion, Firebase**
+- 🌱 I’m currently learning **more about React, ContextAPI, redux, framer motion, and Firebase**
 
 - 📫 How to reach me **okunlolamuhammadtoyeeb1@gmail.com**
 
-- ⚡ Fun fact **I love to watch football, movies and read memes,**
+- ⚡ Fun fact **I love to watch football, movies, play games, and read memes,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
