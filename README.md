@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devexponent&label=Profile%20views&color=0e75b6&style=flat" alt="devexponent" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dev_exponent" target="blank"><img src="https://img.shields.io/twitter/follow/dev_exponent?logo=twitter&style=for-the-badge" alt="dev_exponent" /></a> </p>
+<p align="left"> <a href="https://x.com/_adem0la" target="blank"><img src="https://img.shields.io/twitter/follow/dev_exponent?logo=twitter&style=for-the-badge" alt="dev_exponent" /></a> </p>
 
 - 🔭 I’m currently working **with React JS, Bootstrap V5, Tailwind CSS, AOS, and Framer motion and using them to build fun, user-centered creative Web Projects**
 
