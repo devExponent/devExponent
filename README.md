@@ -7,6 +7,7 @@
 
 - 🔭 I’m an evolving software developer with a proven track record of building impactful, scalable, and user-centric applications for startups and SMEs. I’m passionate about creating interactive software solutions that put people first.
 - 🌱 I’m currently learning **more about React.js, TypeScript, Next.js, Node.js, ContextAPI, redux, Framer Motion, and Firebase**
+- 💡 I’m currently exploring research in assistive and emerging technologies to better understand how they can be employed in software design to promote business sustainability and serve diverse users.
 
 - 📫 How to reach me **okunlolamuhammadtoyeeb1@gmail.com**
 
