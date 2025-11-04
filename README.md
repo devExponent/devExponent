@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://x.com/_adem0la" target="blank"><img src="https://img.shields.io/twitter/follow/dev_exponent?logo=twitter&style=for-the-badge" alt="dev_exponent" /></a> </p>
 
-- 🔭 I am an innovative Software developer with a proven track record of creating impactful software applications across a diverse range of businesses, including startups and SMEs.  I specialize in building scalable, user-centric, and interactive software solutions that put people first.**
-
-- 🌱 I’m currently learning **more about React, ContextAPI, redux, framer motion, and Firebase**
+- 🔭 I’m an evolving software developer with a proven track record of building impactful, scalable, and user-centric applications for startups and SMEs. I’m passionate about creating interactive software solutions that put people first.
+- 🌱 I’m currently learning **more about React.js, TypeScript, Next.js, Node.js, ContextAPI, redux, Framer Motion, and Firebase**
 
 - 📫 How to reach me **okunlolamuhammadtoyeeb1@gmail.com**
 
-- ⚡ Fun fact **I love to watch football, read at my leisure, surf the web, play games,**
+- ⚡ Fun fact **I love watching football, reading at my leisure, surfing the web, and playing games,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
