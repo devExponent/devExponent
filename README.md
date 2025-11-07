@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://x.com/_adem0la" target="blank"><img src="https://img.shields.io/twitter/follow/dev_exponent?logo=twitter&style=for-the-badge" alt="dev_exponent" /></a> </p>
 
-- 🔭 I’m an evolving software developer with a proven track record of building impactful, scalable, and user-centric applications for startups and SMEs. I’m passionate about creating interactive software solutions that put people first.
+- 🔭 I’m an evolving and curious software engineer with a proven track record of building impactful, scalable, and user-centric applications for startups and SMEs. I’m passionate about creating interactive software solutions that solve real problems.
 - 🌱 I’m currently learning **more about React.js, TypeScript, Next.js, Node.js, ContextAPI, redux, Framer Motion, and Firebase**
-- 💡 I’m currently exploring research in assistive and emerging technologies to better understand how they can be employed in software design to promote business sustainability and serve diverse users.
+- 💡 I’m pursuing my Master's in software engineering and currently exploring research in assistive and emerging technologies to better understand how they can be employed in software design to promote business sustainability and serve diverse users.
 
 - 📫 How to reach me **okunlolamuhammadtoyeeb1@gmail.com**
 
