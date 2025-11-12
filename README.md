@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Toyeeb</h1>
-<h3 align="center">An innovative, solution focused & skilled software engineer</h3>
+<h3 align="center">An evolving Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devexponent&label=Profile%20views&color=0e75b6&style=flat" alt="devexponent" /> </p>
 
 <p align="left"> <a href="https://x.com/_adem0la" target="blank"><img src="https://img.shields.io/twitter/follow/dev_exponent?logo=twitter&style=for-the-badge" alt="dev_exponent" /></a> </p>
 
-- 🔭 I’m an evolving and solution-focused Frontend Software Engineer with a proven track record of building impactful, scalable, and user-centric websites for startups and SMEs. I’m passionate about creating interactive software solutions that solve real problems.
+- 🔭 I’m a curious and solution-focused Frontend Software Engineer with a proven track record of building impactful, scalable, and user-centric websites for startups and SMEs. I’m passionate about creating interactive software solutions that solve real problems.
 - 🌱 I’m currently learning **more about React.js, TypeScript, Node.js, Accessibility, and Google Cloud Platform**
 - 💡 I’m pursuing my Master's in software engineering and currently exploring research in assistive and emerging technologies to better understand how they can be employed in software design to promote business sustainability and serve diverse users.
 
