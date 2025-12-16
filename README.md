@@ -22,24 +22,32 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 
 ## 🛠 Skills & Tools
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,scss" />
+### Languages
+JavaScript, TypeScript, HTML, CSS, SCSS
 
-### ⚛ Frontend Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+### Frontend Frameworks
+React, Next.js
 
-### 🎨 UI & Styling
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
-<img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="48" height="48" />
+### UI & Styling
+Tailwind CSS, Bootstrap, Material UI, shadcn/ui
 
-### 🔄 State & Data
-<img src="https://skillicons.dev/icons?i=redux" />
-<span>RTK • Zustand • Context API • TanStack Query</span>
+### State Management & Data Fetching
+Redux, Redux Toolkit, Zustand, Context API, TanStack Query
 
-### 🧪 Testing & Performance
-<img src="https://skillicons.dev/icons?i=jest" />
-<span>React Testing Library • Web Vitals • Code Splitting • Lazy Loading</span>
+### Testing & Performance
+Jest, React Testing Library, Web Vitals, Code Splitting, Lazy Loading
 
-### ⚙️ Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vite,webpack" />
-<span>Chrome DevTools • Agile Scr
+### Tooling & Workflow
+Git, GitHub, Vite, Webpack, Chrome DevTools, Agile Scrum
+
+### Databases
+Firebase, MySQL, MongoDB
+
+---
+
+## 🌱 Projects & Contributions
+
+- Built and maintained responsive web applications with a strong focus on usability and performance  
+- Developed e-commerce platforms and internal management systems for schools, offices, and growing businesses  
+- Implemented complex UI flows including authentication, dashboards, and data-driven components  
+- Contributed to open-source projec
