@@ -1,27 +1,102 @@
-<h1 align="center">Hi 👋, I'm Muhammad Toyeeb</h1>
-<h3 align="center">Evolving Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devexponent&label=Profile%20views&color=0e75b6&style=flat" alt="devexponent" /> </p>
+# Hi, I'm Muhammad Toyeeb 👋
 
-<p align="left"> <a href="https://x.com/_adem0la" target="blank"><img src="https://img.shields.io/twitter/follow/dev_exponent?logo=twitter&style=for-the-badge" alt="dev_exponent" /></a> </p>
+**Frontend Software Engineer | React & TypeScript | UX-Focused Developer**
 
-- 🔭 I’m a curious and solution-focused Frontend Software Engineer with a proven track record of building impactful, scalable, and user-centric websites for startups and SMEs. I’m passionate about creating interactive software solutions that solve real problems.
-- 🌱 I’m currently learning **more about React.js, TypeScript, Node.js, Accessibility, and Google Cloud Platform**
-- 💡 I’m pursuing my Master's in software engineering and currently exploring research in assistive and emerging technologies to better understand how they can be employed in software design to promote business sustainability and serve diverse users.
+I build modern, accessible, and high-performance web interfaces with a strong focus on **usability, clarity, and long-term maintainability**.  
+My work sits at the intersection of solid engineering and thoughtful user experience.
 
-- 📫 How to reach me **okunlolamuhammadtoyeeb1@gmail.com**
+📍 Based in **Turku, Finland**  
+🌍 Open to remote and international opportunities
 
-- ⚡ Fun fact **I love watching football, reading at my leisure, surfing the web, and playing games,**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/_adem0la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_exponent" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-toyeeb-okunlola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-toyeeb-okunlola/" height="30" width="40" /></a>
-</p>
+## 💡 About Me
 
+I’m a frontend engineer who cares deeply about how software *feels* to use — not just whether it works.
 
-<!-- <p><img align="left" style= "background:black" src="https://github-readme-stats.vercel.app/api/top-langs?username=devexponent&show_icons=true&locale=en&layout=compact" alt="devexponent" /></p>
+- I enjoy turning complex requirements into clean, intuitive UI
+- I value readable code, predictable state, and scalable architecture
+- I approach frontend development with a **product and UX mindset**
+- I care about accessibility, performance, and long-term maintainability
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devexponent&show_icons=true&locale=en" alt="devexponent" /></p> -->
+---
 
+## 🛠 Tech Stack
 
+### Frontend
+- **JavaScript (ES6+)**, **TypeScript**
+- **React**, **Next.js**
+- HTML5, CSS3, SCSS
+- Tailwind CSS, Bootstrap
+
+### State & Data
+- Redux, Redux Toolkit
+- Zustand, Context API
+- TanStack Query
+- REST & GraphQL APIs
+
+### Testing & Performance
+- Jest, React Testing Library
+- Web Vitals, lazy loading, code splitting
+
+### Tooling & Workflow
+- Git & GitHub
+- Vite, Webpack
+- Chrome DevTools
+- Agile / Scrum
+
+### Databases
+- Firebase
+- MySQL
+- MongoDB
+
+---
+
+## 🚀 Selected Projects
+
+### 🚗 Computerized Transport Management System
+**React · Tailwind CSS · Firebase**
+
+- Designed and built a responsive transport management platform
+- Implemented trip scheduling, fleet management, and admin dashboards
+- Integrated authentication and real-time data updates
+- Focused on usability, clean UI flow, and real operational needs
+
+---
+
+### 📚 E-Learning Platform
+**HTML · JavaScript · Bootstrap · MySQL**
+
+- Built a performant and responsive learning platform
+- Implemented course browsing and enrollment flows
+- Optimized navigation and load times for smoother user experience
+
+---
+
+## 🏆 Highlights
+
+- 🎓 **Best Graduating Student** — B.Sc. Information Technology (4.56 / 5.00 CGPA)
+- 🧠 Strong background in UX and user-centered design
+- 🧪 Testing-minded with focus on reliability and performance
+- 🌍 Experience collaborating in diverse, distributed teams
+
+---
+
+## 📈 Current Focus
+
+- Scalable React architecture and advanced patterns
+- Performance optimization in real-world frontend applications
+- Accessibility-first UI development
+- Open-source contribution and continuous learning
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-toyeeb-okunlola/
+- 🌐 Portfolio: http://exponent-xi.vercel.app/
+- 📧 Email: okunlolamuhammadtoyeeb1@gmail.com
+
+I’m open to collaboration, open-source contributions, and frontend engineering opportunities.
+
+Thanks for stopping by 👋
