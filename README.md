@@ -92,10 +92,10 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 
 ## 📈 Current Focus
 
-- Scalable React architecture and advanced frontend patterns  
-- Performance optimization in production applications  
-- Accessibility-first UI development  
-- Open-source contribution and continuous learning  
+- Scalable software architecture and advanced frontend patterns    
+- Accessibility-first UI development and assistive technologies  
+- Exploring cloud technologies and modern deployment workflows    
+- Staying current with emerging web technologies and best practices  
 
 ---
 
@@ -104,10 +104,6 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 <img src="https://github-readme-stats.vercel.app/api?username=devExponent&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devExponent&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=devExponent&theme=tokyonight" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=devExponent&theme=onedark&row=1&column=6" />
 
 ---
 
