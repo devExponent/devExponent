@@ -20,34 +20,115 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skills
 
 ### Languages
-JavaScript, TypeScript, HTML, CSS, SCSS
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+---
 
 ### Frontend Frameworks
-React, Next.js
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### UI & Styling
-Tailwind CSS, Bootstrap, Material UI, shadcn/ui
+---
 
-### State Management & Data Fetching
-Redux, Redux Toolkit, Zustand, Context API, TanStack Query
+### Frontend UI Components
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Material UI](https://img.shields.io/badge/Material_UI-111111?style=for-the-badge&logo=mui&logoColor=007FFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=radixui&logoColor=white)
+
+---
+
+### State Management & Data
+![Redux](https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-111111?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Zustand](https://img.shields.io/badge/Zustand-111111?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-111111?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+
+---
 
 ### Testing & Performance
-Jest, React Testing Library, Web Vitals, Code Splitting, Lazy Loading
+![Jest](https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest&logoColor=C21325)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-111111?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
+![Web Vitals](https://img.shields.io/badge/Web_Vitals-111111?style=for-the-badge)
+
+---
 
 ### Tooling & Workflow
-Git, GitHub, Vite, Webpack, Chrome DevTools, Agile Scrum
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Webpack](https://img.shields.io/badge/Webpack-111111?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+
+---
 
 ### Databases
-Firebase, MySQL, MongoDB
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 ---
 
 ## 🌱 Projects & Contributions
 
-- Built and maintained responsive web applications with a strong focus on usability and performance  
-- Developed e-commerce platforms and internal management systems for schools, offices, and growing businesses  
-- Implemented complex UI flows including authentication, dashboards, and data-driven components  
-- Contributed to open-source projec
+- Built and maintained responsive web applications with strong emphasis on usability, accessibility, and performance  
+- Developed e-commerce platforms and management systems for schools, offices, and growing businesses  
+- Implemented complex UI flows including authentication, dashboards, and data-driven interfaces  
+- Contributed to open-source projects by improving frontend components, fixing issues, and refining documentation  
+
+---
+
+## 🏆 Highlights
+
+- Best Graduating Student, B.Sc. Information Technology with 4.56 / 5.00 CGPA  
+- Strong foundation in UX research and user-centered design  
+- Performance and testing oriented mindset  
+- Experience working across diverse teams and cultures  
+
+---
+
+## 📈 Current Focus
+
+- Scalable React architecture and advanced frontend patterns  
+- Performance optimization in production applications  
+- Accessibility-first UI development  
+- Open-source contribution and continuous learning  
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=devExponent&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devExponent&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=devExponent&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=devExponent&theme=onedark&row=1&column=6" />
+
+---
+
+## 🤝 Let’s Connect
+
+<a href="http://exponent-xi.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-toyeeb-okunlola/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://x.com/_adem0la" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="https://www.instagram.com/_adem0la/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="mailto:okunlolamuhammadtoyeeb1@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+---
+
+Feel free to explore my repositories, collaborate, or reach out. I’m always open to meaningful frontend work and open-source contributions.
