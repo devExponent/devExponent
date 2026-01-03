@@ -101,7 +101,8 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 
 ## 📊 GitHub Stats
 
-<img src="https://gitmystat.vercel.app/api?username=devExponent&theme=default" />
+<img src="https://your-deployment.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
 
 
 ---
