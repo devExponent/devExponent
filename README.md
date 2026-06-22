@@ -23,18 +23,17 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 ## 🛠 Skills
 
 ### Languages
-### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
 ### Backend & APIs
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
+- Built RESTful APIs using Java and Spring Boot  
+- Worked with MySQL and JPA/Hibernate for data persistence  
+- Implemented authentication and backend service logic  
 
 ---
 
@@ -102,9 +101,10 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 
 ## 📈 Current Focus
 
-- Scalable software architecture and advanced frontend patterns    
+- Scalable software architecture and advanced frontend patterns  
+- Backend development using Java and Spring Boot  
 - Accessibility-first UI development and assistive technologies  
-- Exploring cloud technologies and modern deployment workflows    
+- Exploring cloud technologies and modern deployment workflows  
 - Staying current with emerging web technologies and best practices  
 
 ---
@@ -113,8 +113,6 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 
 <img src="https://github-readme-stats.vercel.app/api?username=devExponent&show_icons=true&theme=tokyonight" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devExponent&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss,less,mdx" />
-
-
 
 ---
 
