@@ -23,8 +23,11 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 ## 🛠 Skills
 
 ### Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=sharp&logoColor=white)
 
 ---
 
