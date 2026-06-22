@@ -31,6 +31,13 @@ I’m a frontend engineer who enjoys crafting interfaces that are intuitive, rel
 
 ---
 
+### Backend & APIs
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
+
+---
+
 ### Frontend Frameworks
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
