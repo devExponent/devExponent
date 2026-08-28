@@ -1,313 +1,146 @@
 # Hi 👋, I'm Muhammad Toyeeb
 
-### Software Engineer building full-stack systems and exploring Machine Learning & Human-Centered Computing
+Full-stack Software Engineer building scalable, accessible, user-centered web applications across frontend and backend systems.
 
-📍 Turku, Finland
-🎓 M.Sc. Software Engineering @ University of Turku
-🌍 Open to international and remote opportunities
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-toyeeb-okunlola/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://exponent-xi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:muhammad.t.okunlola@utu.fi">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/devExponent">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+📍 Turku, Finland  
+🎓 Pursuing a Master's degree in Software Engineering, University of Turku  
+💼 Software Engineering Intern @ Bitex Consulting Services (New York, remote)  
+🌍 Open to remote and international opportunities  
 
 ---
 
 ## 💡 About Me
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-I am a Software Engineer interested in building reliable, scalable, and user-centered software systems across the frontend and backend.
+I build complete software systems from user interface to backend architecture — most recently shipping event scheduling, registration, and booking features on a React/TypeScript + Spring Boot stack as part of a 10-person Agile team.
 
-My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning. I enjoy working across the layers of a system, from designing interfaces and REST APIs to modeling data, improving performance, testing software, and deploying applications.
-
-Alongside engineering, I am currently developing my research interests at the intersection of **Machine Learning and Human-Computer Interaction**, with a particular interest in intelligent and human-centered systems.
-
-* 🔧 Building full-stack applications with **React, TypeScript, Java, and Spring Boot**
-* ⚙️ Designing **REST APIs, backend services, and database-driven systems**
-* ☁️ Working with **AWS, Docker, Jenkins, and cloud-based services**
-* 🧪 Applying **automated testing and performance optimization**
-* 🤖 Developing **machine learning pipelines with Python and Scikit-learn**
-* 🧠 Exploring **Machine Learning, HCI, and Human-AI Interaction**
+- Full-stack web application development, from UI to database
+- Comfortable owning a feature end to end: API design, data modeling, and the interface on top of it
+- Debugging and fixing real production issues — CORS misconfigurations, framework upgrades, slow queries — not just writing new code
+- Strong interest in system design, APIs, and scalable architectures
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cs,python,mysql" />
-</p>
-
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
----
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-* React.js
-* TypeScript
-* Next.js
-* Tailwind CSS
-* Redux
-* TanStack Query
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ---
 
-### ⚙️ Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-* Java
-* Spring Boot
-* Spring MVC
-* REST APIs
-* JPA / Hibernate
-* Authentication & Authorization
-* Layered backend architecture
+### Frontend
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Radix UI](https://img.shields.io/badge/Radix_UI-111111?style=for-the-badge&logo=radixui&logoColor=white)
 
 ---
 
-### 🗄️ Databases & Data
+### Backend and APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-111111?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-111111?style=for-the-badge&logo=hibernate&logoColor=59666C)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-* MySQL
-* PostgreSQL
-* MongoDB
-* SQL
-* Relational data modeling
-* JPA / Hibernate persistence
+- Built RESTful APIs using Java, Spring Boot, and Spring MVC  
+- Modeled entity relationships with JPA/Hibernate across PostgreSQL and MySQL  
+- Designed authentication and authorization systems  
+- Developed backend services following layered architecture  
 
 ---
 
-### 🤖 Machine Learning & Data Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge\&logo=pandas\&logoColor=150458)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge\&logo=scikit-learn\&logoColor=F7931E)
-
-* Machine learning pipelines
-* Data preprocessing
-* Feature engineering
-* Predictive modeling
-* Random Forest
-* Model evaluation
-* Experiment reproducibility
+### Data & ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![pandas](https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
 
 ---
 
-### ☁️ Cloud, DevOps & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,gradle,maven" />
-</p>
-
-* AWS
-* Google Cloud Storage
-* Docker
-* Jenkins
-* Git
-* GitHub
-* Maven
-* Gradle
-* Jira
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 ---
 
-### 🧪 Testing
-
-![JUnit 5](https://img.shields.io/badge/JUnit_5-111111?style=for-the-badge\&logo=junit5\&logoColor=25A162)
-![Jest](https://img.shields.io/badge/Jest-111111?style=for-the-badge\&logo=jest\&logoColor=C21325)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-111111?style=for-the-badge\&logo=testinglibrary\&logoColor=E33332)
-
-* Unit testing
-* Integration testing
-* JUnit 5
-* Jest
-* React Testing Library
-* Regression testing
+### State Management and Data
+![Redux](https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux&logoColor=764ABC)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-111111?style=for-the-badge&logo=reactquery&logoColor=FF4154)
 
 ---
 
-## 🚀 Engineering Experience
-
-My professional experience has involved building and maintaining software across frontend, backend, databases, cloud infrastructure, and testing.
-
-### Full-Stack Engineering
-
-* Built event scheduling, registration, and booking functionality using **React, TypeScript, and Spring Boot**
-* Designed entity relationships using **JPA and Hibernate**
-* Worked with **PostgreSQL and MySQL** for persistent application data
-* Developed RESTful APIs for university management and administrative systems
-* Implemented authentication, authorization, and role-based workflows
-
-### Performance & Reliability
-
-* Optimized a SQL-backed endpoint, reducing response time from approximately **2 seconds to under 400ms**
-* Investigated and resolved a production file-upload failure caused by an **AWS S3 CORS configuration**
-* Worked on application upgrades and resolved breaking changes during a **Spring Boot 2.7 → 3.1 migration**
-* Developed automated tests to validate application behavior before deployment
-
-### Engineering Collaboration
-
-* Reviewed **20+ GitHub pull requests** within a 10-person Agile engineering team
-* Worked with weekly sprints and collaborative development workflows
-* Used Git, GitHub, Jira, Jenkins, Maven, and Gradle throughout development workflows
+### Testing and Performance
+![JUnit5](https://img.shields.io/badge/JUnit_5-111111?style=for-the-badge&logo=junit5&logoColor=25A162)
+![Jest](https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest&logoColor=C21325)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-111111?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
+![Web Vitals](https://img.shields.io/badge/Web_Vitals-111111?style=for-the-badge)
 
 ---
 
-## 🤖 Machine Learning Experience
-
-As a Machine Learning Research Assistant, I worked on predictive modeling for industrial equipment failure.
-
-* Implemented end-to-end **Scikit-learn** training pipelines using Random Forest models
-* Improved early-warning detection accuracy by **23.6%**
-* Automated sensor-data preprocessing using **Python and Pandas**
-* Reduced dataset preparation time by approximately **90 minutes per experiment run**
-* Improved reproducibility and consistency across model experiments
-
----
-
-## 🎓 Education
-
-### M.Sc. (Tech), Software Engineering
-
-**University of Turku, Finland**
-2025 – 2027 · Ongoing
-
-Relevant coursework includes:
-
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Testing` · `UI/UX` · `Cloud Computing`
-
-### B.Sc. Information and Communication Science
-
-**University of Ilorin, Nigeria**
-2018 – 2023
-
-🏆 **Best Graduating Student**
-📊 **CGPA: 4.56 / 5.00**
-
----
-
-## 🧠 Current Focus
-
-I'm currently expanding my interests across software engineering, machine learning, and human-computer interaction.
-
-```text
-Software Engineering
-        │
-        ├── Full-Stack Systems
-        │      ├── Backend Architecture
-        │      ├── APIs & Databases
-        │      └── Scalable Web Applications
-        │
-        ├── Machine Learning
-        │      ├── Predictive Modeling
-        │      ├── Data Pipelines
-        │      └── Applied ML
-        │
-        └── Human-Centered Computing
-               ├── Human-AI Interaction
-               ├── Intelligent Systems
-               └── HCI
-```
-
----
-
-## 🌱 Currently Learning & Exploring
-
-* Advanced backend architecture
-* Scalable software systems
-* Machine learning
-* Human-AI interaction
-* Human-centered intelligent systems
-* Software testing and reliability
-* Cloud-based application development
+### Tooling and Workflow
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Webpack](https://img.shields.io/badge/Webpack-111111?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Maven](https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
+![Gradle](https://img.shields.io/badge/Gradle-111111?style=for-the-badge&logo=gradle&logoColor=02303A)
+![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=0052CC)
 
 ---
 
 ## 🏆 Highlights
 
-* 🥇 Best Graduating Student, B.Sc. Information and Communication Science
-* 🎓 M.Sc. Software Engineering student at the University of Turku
-* 📈 23.6% improvement in early-warning detection accuracy in ML research
-* ⚡ Reduced an API response time from ~2s to <400ms
-* 🧪 15+ automated tests written during a production Spring Boot upgrade
-* 🔍 20+ GitHub pull requests reviewed within an Agile engineering team
-* 👨‍🏫 Technical volunteer and student developer mentor
-* 🌍 Experience working across international and multidisciplinary environments
+- Best Graduating Student, B.Sc. Information and Communication Science, 4.56/5.00 CGPA  
+- Shipped production features on a 10-person Agile team, including a Spring Boot 2.7 → 3.1 upgrade and a query rewrite that cut response time from 2s to under 400ms  
+- Strong foundation in UX research and user-centered design  
+- Performance and testing oriented mindset  
+- Experience working across diverse teams and modern tech stacks  
 
 ---
 
-## 📚 Professional Development
+## 📈 Currently Focused On
 
-* **Machine Learning Specialization** — Stanford University
-* **Agile Project Management** — Google
-* **Evaluating Designs with Users** — University of Michigan
-* **Fundamentals of Software Design and Architecture**
-
----
-
-## 🤝 Leadership & Community
-
-### Student Tutor · University of Turku
-
-Supporting new international students with their academic and daily transition to university life in Finland.
-
-### Technical Volunteer · Google Developer Student Clubs
-
-Mentoring student developers through programming workshops, webinars, and collaborative technical sessions.
+- Shipping features and closing out sprints as a Software Engineering Intern at Bitex Consulting Services  
+- Deepening backend architecture and system design skills — API design, data modeling, upgrade/migration work  
+- Coursework in Cloud Computing, Software Testing, and Machine Learning as part of my M.Sc.  
+- Learning Finnish (currently B1) alongside day-to-day engineering work  
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devExponent&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devExponent&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,scss,less,mdx" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=devExponent&show_icons=true&theme=tokyonight" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devExponent&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss,less,mdx" />
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-toyeeb-okunlola/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://exponent-xi.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  <a href="mailto:muhammad.t.okunlola@utu.fi">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-**Open to:** Software Engineering · Full-Stack Development · Backend Engineering · Machine Learning · Research Opportunities
+<a href="http://exponent-xi.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-toyeeb-okunlola/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://x.com/_adem0la" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="https://www.instagram.com/_adem0la/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="mailto:okunlolamuhammadtoyeeb1@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ---
 
-<p align="center">
-  <i>Building software, exploring intelligent systems, and continuously learning.</i>
-</p>
+Feel free to explore my pinned repositories, collaborate, or reach out. I'm always open to meaningful full-stack and open-source opportunities.
