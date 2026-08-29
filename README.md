@@ -109,7 +109,7 @@ I'm currently deepening my AWS knowledge and strengthening my understanding of L
   I'm going deeper into caching strategies, API versioning, and schema design tradeoffs, building on the Spring Boot upgrade and optimization work I've done at Bitex.
 
 
-    - 📊 **Scalable Software Systems**  
+- 📊 **Scalable Software Systems**  
   I'm learning how systems hold up under real load, working through database indexing, async processing, and service design that can grow without a rewrite.
 
 
