@@ -110,7 +110,7 @@ I enjoy working through every layer of a system, from designing interfaces and A
 
 
 - ☁️ **Cloud and DevOps**
-  I'm building my cloud skills with **AWS** and strengthening my understanding of **Linux, networking, Infrastructure as Code with Terraform, Docker, and CI/CD**. I'm learning by working on practical projects and gradually exploring how to automate, deploy, and manage applications and infrastructure in the cloud. My goal is to grow into **Cloud and DevOps Engineering**.
+ I'm deepening my AWS knowledge and strengthening my understanding of Linux, networking, and Infrastructure as Code with Terraform. I'm also exploring how these tools come together to automate infrastructure and application deployments through CI/CD.
 
 
 - 🤖 **Machine Learning and Human-Computer Interaction**  
