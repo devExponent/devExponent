@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Toyeeb
 
-Full-stack Software Engineer building scalable, accessible, user-centered web applications across frontend and backend systems.
+Software Engineer and aspiring AI Researcher, building scalable, accessible, user-centered software systems across the frontend and backend.
 
 📍 Turku, Finland  
 🎓 Pursuing a Master's degree in Software Engineering, University of Turku  
@@ -12,11 +12,11 @@ Full-stack Software Engineer building scalable, accessible, user-centered web ap
 ## 💡 About Me
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-I'm a Software Engineer interested in building reliable, scalable, and user-centered software systems across the frontend and backend.
+I'm a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and human centered software systems across the frontend and backend.
 
-My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning. I enjoy working across the layers of a system — from designing interfaces and REST APIs to modeling data, improving performance, testing software, and deploying applications.
+My experience spans full stack web development, backend engineering, cloud technologies, automated testing, and machine learning. I enjoy working through every layer of a system, from designing interfaces and REST APIs to modeling data, improving performance, testing software, and deploying it to production.
 
-Most recently, I've been putting that range to work as a Software Engineering Intern at Bitex Consulting Services, shipping event scheduling, registration, and booking features on a React/TypeScript + Spring Boot stack as part of a 10-person Agile team.
+`🎨 Frontend`  ·  `⚙️ Backend`  ·  `☁️ Cloud`  ·  `🧪 Testing`  ·  `🤖 Machine Learning`
 
 ---
 
@@ -94,8 +94,8 @@ Most recently, I've been putting that range to work as a Software Engineering In
 ![Gradle](https://img.shields.io/badge/Gradle-111111?style=for-the-badge&logo=gradle&logoColor=02303A)
 ![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=0052CC)
 
-- Deployed and monitored services on AWS (including tracking down a production S3/CORS bug) and Google Cloud Storage  
-- Ran CI/CD pipelines through Jenkins, including a full Spring Boot 2.7 → 3.1 upgrade rollout  
+- Deployed and monitored services on AWS, including tracking down a production S3 and CORS bug, and on Google Cloud Storage  
+- Ran CI/CD pipelines through Jenkins, including a full Spring Boot 2.7 to 3.1 upgrade rollout  
 - Used Docker for containerized local development and deployment  
 - Managed sprints and issue tracking in Jira as part of an Agile team  
 
@@ -104,20 +104,24 @@ Most recently, I've been putting that range to work as a Software Engineering In
 ## 🏆 Highlights
 
 - Best Graduating Student, B.Sc. Information and Communication Science, 4.56/5.00 CGPA  
-- Shipped production features on a 10-person Agile team, including a Spring Boot 2.7 → 3.1 upgrade and a query rewrite that cut response time from 2s to under 400ms  
+- Shipped production features on a 10-person Agile team, including a Spring Boot 2.7 to 3.1 upgrade and a query rewrite that cut response time from 2s to under 400ms  
 - Strong foundation in UX research and user-centered design  
 - Performance and testing oriented mindset  
 - Experience working across diverse teams and modern tech stacks  
 
 ---
 
-## 📈 Currently Focused On
+## 📈 What I'm Currently Focused On
 
-- **Advanced backend architecture** — going deeper on how backend systems are actually structured at scale: layered vs. hexagonal architecture, API versioning strategies, and the tradeoffs behind decisions like when to denormalize a schema or introduce a caching layer, drawing directly on the Spring Boot upgrade and query-optimization work I've done at Bitex.
-- **Scalable software systems** — studying how systems hold up under real load and grow without breaking: database indexing and query planning, async processing patterns, and structuring services so they can be scaled or split without a rewrite.
-- **Cloud-based development** — building on my AWS and Google Cloud Storage experience to get more comfortable with infrastructure-as-code and CI/CD design, not just using cloud services but architecting for them from the start.
-- **Machine Learning × Human-Computer Interaction** — developing a research interest at the intersection of ML and HCI, with a particular pull toward intelligent, human-centered systems: how models can be made not just accurate but genuinely usable and trustworthy for the people interacting with them.
-- **Finnish (currently B1)** — learning the language alongside day-to-day engineering work as I build a life and career in Turku.
+- **Advanced backend architecture.** I'm going deeper into caching strategies, API versioning, and schema design tradeoffs, building on the upgrade and optimization work I've done with Spring Boot at Bitex.
+
+- **Scalable software systems.** I'm learning how systems hold up under real load, working through database indexing, async processing, and service design that can grow without a rewrite.
+
+- **Cloud based development.** I'm building on my AWS and Google Cloud Storage experience to get more comfortable with infrastructure as code and CI/CD pipeline design.
+
+- **Machine Learning and Human-Computer Interaction.** I'm developing a research interest at this intersection, with a particular pull toward intelligent, human centered systems.
+
+- **Finnish (currently B1).** I'm learning the language alongside my day to day engineering work as I build a life and career in Turku.
 
 ---
 
@@ -126,13 +130,23 @@ Most recently, I've been putting that range to work as a Software Engineering In
 **M.Sc. (Tech), Software Engineering**  
 University of Turku, Finland  
 2025 – 2027 · Ongoing  
-Relevant coursework: `Data Structures & Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Testing` · `UI/UX` · `Cloud Computing`
+Relevant coursework: `Data Structures & Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Testing` · `UI/UX` · `Cloud Computing` · `DevOps`
 
 **B.Sc. Information and Communication Science**  
 University of Ilorin, Nigeria  
 2018 – 2023  
-🏆 Best Graduating Student  
-📊 CGPA: 4.56 / 5.00
+🏆 **Best Graduating Student, Ranked 1st**  
+📊 **CGPA: 4.56 / 5.00**
+
+---
+
+## 🤝 Leadership & Community
+
+**Student Tutor · University of Turku**  
+Supporting new international students with their academic and daily transition to university life in Finland.
+
+**Technical Volunteer · Google Developer Student Clubs**  
+Mentoring student developers through programming workshops, webinars, and collaborative technical sessions.
 
 ---
 
