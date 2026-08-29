@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Toyeeb
 
-Software Engineer and aspiring AI Researcher, building scalable, accessible, user-centered software systems across the frontend and backend.
+I build full stack systems that scale today, and I'm learning to build the intelligent systems of tomorrow.
 
 📍 Turku, Finland  
 🎓 Pursuing a Master's degree in Software Engineering, University of Turku  
@@ -14,7 +14,9 @@ Software Engineer and aspiring AI Researcher, building scalable, accessible, use
 
 I'm a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and human centered software systems across the frontend and backend.
 
-My experience spans full stack web development, backend engineering, cloud technologies, automated testing, and machine learning. I enjoy working through every layer of a system, from designing interfaces and REST APIs to modeling data, improving performance, testing software, and deploying it to production.
+My experience spans full stack web development, backend engineering, cloud technologies, automated testing, and machine learning. Day to day, I work with React, TypeScript, Java, and Spring Boot, and I rely on cloud platforms like AWS and Google Cloud to ship and scale what I build.
+
+I enjoy working through every layer of a system, from designing interfaces and REST APIs to modeling data, improving performance, testing software, and deploying it to production.
 
 `🎨 Frontend`  ·  `⚙️ Backend`  ·  `☁️ Cloud`  ·  `🧪 Testing`  ·  `🤖 Machine Learning`
 
@@ -82,7 +84,7 @@ My experience spans full stack web development, backend engineering, cloud techn
 
 ---
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud, DevOps and Tools
 ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
@@ -101,52 +103,68 @@ My experience spans full stack web development, backend engineering, cloud techn
 
 ---
 
-## 🏆 Highlights
+## 📈 What I'm Currently Focused On
 
-- Best Graduating Student, B.Sc. Information and Communication Science, 4.56/5.00 CGPA  
-- Shipped production features on a 10-person Agile team, including a Spring Boot 2.7 to 3.1 upgrade and a query rewrite that cut response time from 2s to under 400ms  
-- Strong foundation in UX research and user-centered design  
-- Performance and testing oriented mindset  
-- Experience working across diverse teams and modern tech stacks  
+- 🏗 **Advanced Backend Architecture**  
+  I'm going deeper into caching strategies, API versioning, and schema design tradeoffs, building on the Spring Boot upgrade and optimization work I've done at Bitex.
+
+- 📊 **Scalable Software Systems**  
+  I'm learning how systems hold up under real load, working through database indexing, async processing, and service design that can grow without a rewrite.
+
+- ☁️ **Cloud Based Development**  
+  I'm building on my AWS and Google Cloud Storage experience to get more comfortable with infrastructure as code and CI/CD pipeline design.
+
+- 🤖 **Machine Learning and Human-Computer Interaction**  
+  I'm developing a research interest at this intersection, with a particular pull toward intelligent, human centered systems.
+
+- 🇫🇮 **Finnish (Currently B1)**  
+  I'm learning the language alongside my day to day engineering work as I build a life and career in Turku.
 
 ---
 
-## 📈 What I'm Currently Focused On
+## 🏆 Highlights
 
-- **Advanced backend architecture.** I'm going deeper into caching strategies, API versioning, and schema design tradeoffs, building on the upgrade and optimization work I've done with Spring Boot at Bitex.
+- 🎓 **Top of My Class**  
+  Best Graduating Student, B.Sc. Information and Communication Science, 4.56 out of 5.00 CGPA
 
-- **Scalable software systems.** I'm learning how systems hold up under real load, working through database indexing, async processing, and service design that can grow without a rewrite.
+- 🚀 **Production Impact**  
+  Shipped features on a 10 person Agile team, including a Spring Boot 2.7 to 3.1 upgrade and a query rewrite that cut response time from 2 seconds to under 400 milliseconds
 
-- **Cloud based development.** I'm building on my AWS and Google Cloud Storage experience to get more comfortable with infrastructure as code and CI/CD pipeline design.
+- 🎨 **User Centered Design**  
+  Strong foundation in UX research and user centered design
 
-- **Machine Learning and Human-Computer Interaction.** I'm developing a research interest at this intersection, with a particular pull toward intelligent, human centered systems.
+- 🧪 **Quality First**  
+  Performance and testing oriented mindset
 
-- **Finnish (currently B1).** I'm learning the language alongside my day to day engineering work as I build a life and career in Turku.
+- 🌍 **Versatility**  
+  Experience working across diverse teams and modern tech stacks
 
 ---
 
 ## 🎓 Education
 
-**M.Sc. (Tech), Software Engineering**  
-University of Turku, Finland  
-2025 – 2027 · Ongoing  
-Relevant coursework: `Data Structures & Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Testing` · `UI/UX` · `Cloud Computing` · `DevOps`
+- **M.Sc. (Tech), Software Engineering**
+  - 🏫 University of Turku, Finland
+  - 📅 2025 to 2027 · Ongoing
+  - 📚 Coursework: `Data Structures and Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Testing` · `UI/UX` · `Cloud Computing` · `DevOps`
 
-**B.Sc. Information and Communication Science**  
-University of Ilorin, Nigeria  
-2018 – 2023  
-🏆 **Best Graduating Student, Ranked 1st**  
-📊 **CGPA: 4.56 / 5.00**
+- **B.Sc. Information and Communication Science**
+  - 🏫 University of Ilorin, Nigeria
+  - 📅 2018 to 2023
+  - 🏆 **Best Graduating Student, Ranked 1st**
+  - 📊 **CGPA: 4.56 / 5.00**
 
 ---
 
-## 🤝 Leadership & Community
+## 🤝 Leadership and Community
 
-**Student Tutor · University of Turku**  
-Supporting new international students with their academic and daily transition to university life in Finland.
+- **Student Tutor**
+  - 🏫 University of Turku
+  - 🤝 Supporting new international students with their academic and daily transition to university life in Finland
 
-**Technical Volunteer · Google Developer Student Clubs**  
-Mentoring student developers through programming workshops, webinars, and collaborative technical sessions.
+- **Technical Volunteer**
+  - 💻 Google Developer Student Clubs
+  - 🎤 Mentoring student developers through programming workshops, webinars, and collaborative technical sessions
 
 ---
 
