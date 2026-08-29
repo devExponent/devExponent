@@ -14,9 +14,9 @@ I build full stack systems that scale today, and I'm learning to build the intel
 
 I'm a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and intelligent software systems that put users first.
 
-My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning. Day-to-day, I work with React, TypeScript, Java, and Spring Boot, and I rely on cloud platforms like AWS and Google Cloud to ship and scale what I build.
+My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning. Day-to-day, I work with React, TypeScript, Java, and Spring Boot, and I rely on cloud platforms like AWS to ship and scale what I build.
 
-I enjoy working through every layer of a system, from designing interfaces and APIs to modeling data, improving performance, testing software, and deploying it to production.
+I'm currently deepening my AWS knowledge and strengthening my understanding of Linux, networking, and Infrastructure as Code with Terraform. I'm also exploring how these tools come together to automate infrastructure and application deployments through CI/CD.
 
 `🎨 Frontend`  ·  `⚙️ Backend`  ·  `☁️ Cloud`  ·  `🧪 Testing`  ·  `🤖 Machine Learning`
 
@@ -108,11 +108,14 @@ I enjoy working through every layer of a system, from designing interfaces and A
 - 🏗 **Advanced Backend Architecture**  
   I'm going deeper into caching strategies, API versioning, and schema design tradeoffs, building on the Spring Boot upgrade and optimization work I've done at Bitex.
 
-- ☁️ **Cloud and DevOps**  
-  I'm deepening my AWS knowledge and strengthening my understanding of Linux, networking, and Infrastructure as Code with Terraform. I'm also exploring how these tools come together to automate infrastructure and application deployments through CI/CD.
+
+    - 📊 **Scalable Software Systems**  
+  I'm learning how systems hold up under real load, working through database indexing, async processing, and service design that can grow without a rewrite.
+
 
 - 🤖 **Machine Learning and Human-Computer Interaction**  
   I'm developing a research interest at this intersection, with a particular pull toward intelligent, human-centered systems.
+
 
 - 🇫🇮 **Finnish (Currently B1)**  
   I'm learning the language alongside my day-to-day engineering work as I build a life and career in Turku.
