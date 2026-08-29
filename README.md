@@ -12,12 +12,11 @@ Full-stack Software Engineer building scalable, accessible, user-centered web ap
 ## 💡 About Me
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-I build complete software systems from user interface to backend architecture — most recently shipping event scheduling, registration, and booking features on a React/TypeScript + Spring Boot stack as part of a 10-person Agile team.
+I'm a Software Engineer interested in building reliable, scalable, and user-centered software systems across the frontend and backend.
 
-- Full-stack web application development, from UI to database
-- Comfortable owning a feature end to end: API design, data modeling, and the interface on top of it
-- Debugging and fixing real production issues — CORS misconfigurations, framework upgrades, slow queries — not just writing new code
-- Strong interest in system design, APIs, and scalable architectures
+My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning. I enjoy working across the layers of a system — from designing interfaces and REST APIs to modeling data, improving performance, testing software, and deploying applications.
+
+Most recently, I've been putting that range to work as a Software Engineering Intern at Bitex Consulting Services, shipping event scheduling, registration, and booking features on a React/TypeScript + Spring Boot stack as part of a 10-person Agile team.
 
 ---
 
@@ -38,6 +37,8 @@ I build complete software systems from user interface to backend architecture �
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-111111?style=for-the-badge&logo=radixui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Webpack](https://img.shields.io/badge/Webpack-111111?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
 
 ---
 
@@ -81,19 +82,22 @@ I build complete software systems from user interface to backend architecture �
 
 ---
 
-### Tooling and Workflow
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Webpack](https://img.shields.io/badge/Webpack-111111?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+### ☁️ Cloud, DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
 ![Gradle](https://img.shields.io/badge/Gradle-111111?style=for-the-badge&logo=gradle&logoColor=02303A)
 ![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=0052CC)
+
+- Deployed and monitored services on AWS (including tracking down a production S3/CORS bug) and Google Cloud Storage  
+- Ran CI/CD pipelines through Jenkins, including a full Spring Boot 2.7 → 3.1 upgrade rollout  
+- Used Docker for containerized local development and deployment  
+- Managed sprints and issue tracking in Jira as part of an Agile team  
 
 ---
 
@@ -109,10 +113,26 @@ I build complete software systems from user interface to backend architecture �
 
 ## 📈 Currently Focused On
 
-- Shipping features and closing out sprints as a Software Engineering Intern at Bitex Consulting Services  
-- Deepening backend architecture and system design skills — API design, data modeling, upgrade/migration work  
-- Coursework in Cloud Computing, Software Testing, and Machine Learning as part of my M.Sc.  
-- Learning Finnish (currently B1) alongside day-to-day engineering work  
+- **Advanced backend architecture** — going deeper on how backend systems are actually structured at scale: layered vs. hexagonal architecture, API versioning strategies, and the tradeoffs behind decisions like when to denormalize a schema or introduce a caching layer, drawing directly on the Spring Boot upgrade and query-optimization work I've done at Bitex.
+- **Scalable software systems** — studying how systems hold up under real load and grow without breaking: database indexing and query planning, async processing patterns, and structuring services so they can be scaled or split without a rewrite.
+- **Cloud-based development** — building on my AWS and Google Cloud Storage experience to get more comfortable with infrastructure-as-code and CI/CD design, not just using cloud services but architecting for them from the start.
+- **Machine Learning × Human-Computer Interaction** — developing a research interest at the intersection of ML and HCI, with a particular pull toward intelligent, human-centered systems: how models can be made not just accurate but genuinely usable and trustworthy for the people interacting with them.
+- **Finnish (currently B1)** — learning the language alongside day-to-day engineering work as I build a life and career in Turku.
+
+---
+
+## 🎓 Education
+
+**M.Sc. (Tech), Software Engineering**  
+University of Turku, Finland  
+2025 – 2027 · Ongoing  
+Relevant coursework: `Data Structures & Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Testing` · `UI/UX` · `Cloud Computing`
+
+**B.Sc. Information and Communication Science**  
+University of Ilorin, Nigeria  
+2018 – 2023  
+🏆 Best Graduating Student  
+📊 CGPA: 4.56 / 5.00
 
 ---
 
@@ -125,9 +145,6 @@ I build complete software systems from user interface to backend architecture �
 
 ## 🤝 Let's Connect
 
-<a href="http://exponent-xi.vercel.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" />
-</a>
 <a href="https://www.linkedin.com/in/muhammad-toyeeb-okunlola/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -140,6 +157,12 @@ I build complete software systems from user interface to backend architecture �
 <a href="mailto:okunlolamuhammadtoyeeb1@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+---
+
+## 🗣 Languages
+
+English (C1) · Finnish (B1) · Yoruba (Native)
 
 ---
 
