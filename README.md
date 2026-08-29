@@ -55,7 +55,7 @@ My experience spans full stack web development, backend engineering, cloud techn
 
 ---
 
-### Data & ML
+### Data and ML
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![pandas](https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
 
