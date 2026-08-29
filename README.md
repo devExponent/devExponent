@@ -108,11 +108,10 @@ I enjoy working through every layer of a system, from designing interfaces and A
 - 🏗 **Advanced Backend Architecture**  
   I'm going deeper into caching strategies, API versioning, and schema design tradeoffs, building on the Spring Boot upgrade and optimization work I've done at Bitex.
 
-- 📊 **Scalable Software Systems**  
-  I'm learning how systems hold up under real load, working through database indexing, async processing, and service design that can grow without a rewrite.
 
-- ☁️ **Cloud Based Development**  
-  I'm building on my AWS and Google Cloud Storage experience to get more comfortable with infrastructure as code and CI/CD pipeline design.
+- ☁️ **Cloud and DevOps**
+I'm building my cloud skills with **AWS** and strengthening my understanding of **Linux, networking, Infrastructure as Code with Terraform, Docker, and CI/CD**. I'm learning by working on practical projects and gradually exploring how to automate, deploy, and manage applications and infrastructure in the cloud. My goal is to grow into **Cloud and DevOps Engineering**.
+
 
 - 🤖 **Machine Learning and Human-Computer Interaction**  
   I'm developing a research interest at this intersection, with a particular pull toward intelligent, human-centered systems.
