@@ -12,11 +12,11 @@ I build full stack systems that scale today, and I'm learning to build the intel
 ## 💡 About Me
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-I'm a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and human centered software systems across the frontend and backend.
+I'm a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and intelligent  software systems that put users first. 
 
-My experience spans full stack web development, backend engineering, cloud technologies, automated testing, and machine learning. Day to day, I work with React, TypeScript, Java, and Spring Boot, and I rely on cloud platforms like AWS and Google Cloud to ship and scale what I build.
+My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning. Day-to-day, I work with React, TypeScript, Java, and Spring Boot, and I rely on cloud platforms like AWS and Google Cloud to ship and scale what I build.
 
-I enjoy working through every layer of a system, from designing interfaces and REST APIs to modeling data, improving performance, testing software, and deploying it to production.
+I enjoy working through every layer of a system, from designing interfaces and APIs to modeling data, improving performance, testing software, and deploying it to production.
 
 `🎨 Frontend`  ·  `⚙️ Backend`  ·  `☁️ Cloud`  ·  `🧪 Testing`  ·  `🤖 Machine Learning`
 
@@ -115,10 +115,10 @@ I enjoy working through every layer of a system, from designing interfaces and R
   I'm building on my AWS and Google Cloud Storage experience to get more comfortable with infrastructure as code and CI/CD pipeline design.
 
 - 🤖 **Machine Learning and Human-Computer Interaction**  
-  I'm developing a research interest at this intersection, with a particular pull toward intelligent, human centered systems.
+  I'm developing a research interest at this intersection, with a particular pull toward intelligent, human-centered systems.
 
 - 🇫🇮 **Finnish (Currently B1)**  
-  I'm learning the language alongside my day to day engineering work as I build a life and career in Turku.
+  I'm learning the language alongside my day-to-day engineering work as I build a life and career in Turku.
 
 ---
 
@@ -128,13 +128,13 @@ I enjoy working through every layer of a system, from designing interfaces and R
   Best Graduating Student, B.Sc. Information and Communication Science, 4.56 out of 5.00 CGPA
 
 - 🚀 **Production Impact**  
-  Shipped features on a 10 person Agile team, including a Spring Boot 2.7 to 3.1 upgrade and a query rewrite that cut response time from 2 seconds to under 400 milliseconds
+  Shipped features on a 10-person Agile team, including a Spring Boot 2.7 to 3.1 upgrade and a query rewrite that cut response time from 2 seconds to under 400 milliseconds
 
 - 🎨 **User Centered Design**  
-  Strong foundation in UX research and user centered design
+  Strong foundation in UX research and user-centered design
 
 - 🧪 **Quality First**  
-  Performance and testing oriented mindset
+  Performance- and testing-oriented mindset
 
 - 🌍 **Versatility**  
   Experience working across diverse teams and modern tech stacks
