@@ -12,7 +12,7 @@ I build full stack systems that scale today, and I'm learning to build the intel
 ## 💡 About Me
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-I'm a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and intelligent  software systems that put users first. 
+I'm a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and intelligent software systems that put users first.
 
 My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning. Day-to-day, I work with React, TypeScript, Java, and Spring Boot, and I rely on cloud platforms like AWS and Google Cloud to ship and scale what I build.
 
@@ -153,6 +153,26 @@ I enjoy working through every layer of a system, from designing interfaces and A
   - 📅 2018 to 2023
   - 🏆 **Best Graduating Student, Ranked 1st**
   - 📊 **CGPA: 4.56 / 5.00**
+
+---
+
+## 🌱 Professional Development
+
+- **Machine Learning Specialization**
+  - 🏫 Stanford University (Coursera)
+  - 📅 2026
+
+- **Agile Project Management**
+  - 🏫 Google (Coursera)
+  - 📅 2026
+
+- **Evaluating Designs with Users**
+  - 🏫 University of Michigan (Coursera)
+  - 📅 2025
+
+- **Fundamentals of Software Design and Architecture**
+  - 🏫 Udemy
+  - 📅 2024
 
 ---
 
