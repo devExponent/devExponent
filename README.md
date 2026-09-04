@@ -214,7 +214,7 @@ I'm currently deepening my AWS knowledge and strengthening my understanding of L
 
 ## 🗣 Languages
 
-English (C1) · Finnish (B1) · Yoruba (Native)
+English (C2) · Finnish (B1) · Yoruba (Native)
 
 ---
 
