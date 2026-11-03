@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Toyeeb
 
-I build full stack systems that scale today, and I'm learning to build the intelligent systems of tomorrow.
+I build full-stack systems that scale today, and I'm learning to build tomorrow's intelligent systems.
 
 📍 Turku, Finland  
 🎓 Pursuing a Master's degree in Software Engineering, University of Turku  
