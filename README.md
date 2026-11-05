@@ -1,9 +1,9 @@
-# Hi 👋, I'm Muhammad Toyeeb
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhammad+Toyeeb;Nice+to+meet+you" alt="Hi 👋, I'm Muhammad Toyeeb. Nice to meet you" />
+  </a>
+</h1>
 
-I build full-stack systems that scale today, and I'm learning to build tomorrow's intelligent systems.
-
-📍 Turku, Finland  
-🎓 Pursuing a Master's degree in Software Engineering, University of Turku  
 💼 Software Engineering Intern @ Bitex Consulting Services (New York, remote)  
 🌍 Open to remote and international opportunities  
 
@@ -12,11 +12,11 @@ I build full-stack systems that scale today, and I'm learning to build tomorrow'
 ## 💡 About Me
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-I'm a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and intelligent software systems that put users first.
+I'm Muhammad Toyeeb, a Software Engineer with a growing interest in AI research, drawn to building reliable, scalable, and intelligent software systems that put users first.
 
-My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning. Day-to-day, I work with React, TypeScript, Java, and Spring Boot, and I rely on cloud platforms like AWS to ship and scale what I build.
+My experience spans full-stack web development, backend engineering, cloud technologies, automated testing, and machine learning.
 
-I'm currently deepening my AWS knowledge and strengthening my understanding of Linux, networking, and Infrastructure as Code with Terraform. I'm also exploring how these tools come together to automate infrastructure and application deployments through CI/CD.
+I'm currently building my cloud and DevOps capabilities, working with AWS, Linux, Terraform, and infrastructure automation. I'm also exploring how these tools come together to automate infrastructure and application deployments through CI/CD.
 
 `🎨 Frontend`  ·  `⚙️ Backend`  ·  `☁️ Cloud`  ·  `🧪 Testing`  ·  `🤖 Machine Learning`
 
@@ -24,105 +24,40 @@ I'm currently deepening my AWS knowledge and strengthening my understanding of L
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ---
 
-### Frontend
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Radix UI](https://img.shields.io/badge/Radix_UI-111111?style=for-the-badge&logo=radixui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Webpack](https://img.shields.io/badge/Webpack-111111?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+### Tools and Technologies I Use
 
----
-
-### Backend and APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-111111?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/Hibernate-111111?style=for-the-badge&logo=hibernate&logoColor=59666C)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
-
-- Built RESTful APIs using Java, Spring Boot, and Spring MVC  
-- Modeled entity relationships with JPA/Hibernate across PostgreSQL and MySQL  
-- Designed authentication and authorization systems  
-- Developed backend services following layered architecture  
-
----
-
-### Data and ML
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![pandas](https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
-
----
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
----
-
-### State Management and Data
-![Redux](https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux&logoColor=764ABC)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-111111?style=for-the-badge&logo=reactquery&logoColor=FF4154)
-
----
-
-### Testing and Performance
-![JUnit5](https://img.shields.io/badge/JUnit_5-111111?style=for-the-badge&logo=junit5&logoColor=25A162)
-![Jest](https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest&logoColor=C21325)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-111111?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
-![Web Vitals](https://img.shields.io/badge/Web_Vitals-111111?style=for-the-badge)
-
----
-
-### ☁️ Cloud, DevOps and Tools
+![Maven](https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
+![Gradle](https://img.shields.io/badge/Gradle-111111?style=for-the-badge&logo=gradle&logoColor=02303A)
 ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
-![Gradle](https://img.shields.io/badge/Gradle-111111?style=for-the-badge&logo=gradle&logoColor=02303A)
+![GitLab](https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![pandas](https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=0052CC)
-
-- Deployed and monitored services on AWS, including tracking down a production S3 and CORS bug, and on Google Cloud Storage  
-- Ran CI/CD pipelines through Jenkins, including a full Spring Boot 2.7 to 3.1 upgrade rollout  
-- Used Docker for containerized local development and deployment  
-- Managed sprints and issue tracking in Jira as part of an Agile team  
-
----
-
-## 📈 What I'm Currently Focused On
-
-- 🏗 **Advanced Backend Architecture**  
-  I'm going deeper into caching strategies, API versioning, and schema design tradeoffs, building on the Spring Boot upgrade and optimization work I've done at Bitex.
-
-
-- 📊 **Scalable Software Systems**  
-  I'm learning how systems hold up under real load, working through database indexing, async processing, and service design that can grow without a rewrite.
-
-
-- 🤖 **Machine Learning and Human-Computer Interaction**  
-  I'm developing a research interest at this intersection, with a particular pull toward intelligent, human-centered systems.
-
-
-- 🇫🇮 **Finnish (Currently B1)**  
-  I'm learning the language alongside my day-to-day engineering work as I build a life and career in Turku.
+![LaTeX](https://img.shields.io/badge/LaTeX-111111?style=for-the-badge&logo=latex&logoColor=008080)
 
 ---
 
 ## 🏆 Highlights
+
+- 🏅 **Dean's Recognition**  
+  Recognized by the Dean of the Faculty of Technology, University of Turku, Finland, for exceptional academic performance in the 2026 session
 
 - 🎓 **Top of My Class**  
   Best Graduating Student, B.Sc. Information and Communication Science, 4.56 out of 5.00 CGPA
@@ -146,7 +81,7 @@ I'm currently deepening my AWS knowledge and strengthening my understanding of L
 - **M.Sc. (Tech), Software Engineering**
   - 🏫 University of Turku, Finland
   - 📅 2025 to 2027 · Ongoing
-  - 📚 Coursework: `Data Structures and Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Testing` · `UI/UX` · `Cloud Computing` · `DevOps`
+  - 📚 Coursework: `Data Structures and Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Design and Architecture` · `Software Testing` · `Human-Computer Interaction` · `Cloud Computing`
 
 - **B.Sc. Information and Communication Science**
   - 🏫 University of Ilorin, Nigeria
@@ -158,6 +93,10 @@ I'm currently deepening my AWS knowledge and strengthening my understanding of L
 
 ## 🌱 Professional Development
 
+- **AWS Cloud Technical Essentials**
+  - 🏫 AWS (Coursera)
+  - 📅 2026
+
 - **Machine Learning Specialization**
   - 🏫 Stanford University (Coursera)
   - 📅 2026
@@ -165,6 +104,10 @@ I'm currently deepening my AWS knowledge and strengthening my understanding of L
 - **Agile Project Management**
   - 🏫 Google (Coursera)
   - 📅 2026
+
+- **How to Write and Publish a Scientific Paper**
+  - 🏫 École Polytechnique (Coursera)
+  - 📅 2025
 
 - **Evaluating Designs with Users**
   - 🏫 University of Michigan (Coursera)
@@ -185,6 +128,11 @@ I'm currently deepening my AWS knowledge and strengthening my understanding of L
 - **Technical Volunteer**
   - 💻 Google Developer Student Clubs
   - 🎤 Mentoring student developers through programming workshops, webinars, and collaborative technical sessions
+
+- **Vice President**
+  - 🏛 National Youth Service Corps (NYSC), Community Development Service
+  - 📅 Feb. 2024 to Jan. 2025
+  - 🤝 Led the coordination of educational outreach initiatives, organizing programs, managing team activities, and supporting community-focused learning projects
 
 ---
 
@@ -217,5 +165,3 @@ I'm currently deepening my AWS knowledge and strengthening my understanding of L
 English (C2) · Finnish (B1) · Yoruba (Native)
 
 ---
-
-Feel free to explore my pinned repositories, collaborate, or reach out. I'm always open to meaningful full-stack and open-source opportunities.
