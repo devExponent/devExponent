@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhammad+Toyeeb;Nice+to+meet+you" alt="Hi 👋, I'm Muhammad Toyeeb. Nice to meet you" />
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhammad+Toyeeb;Nice+to+meet+you" alt="Hi 👋, I'm Muhammad Toyeeb. Nice to meet you" />
   </a>
 </h1>
 
@@ -24,10 +24,10 @@ I'm currently building my cloud and DevOps capabilities, working with AWS, Linux
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -35,9 +35,9 @@ I'm currently building my cloud and DevOps capabilities, working with AWS, Linux
 ---
 
 ### Tools and Technologies I Use
-
-![Maven](https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
-![Gradle](https://img.shields.io/badge/Gradle-111111?style=for-the-badge&logo=gradle&logoColor=02303A)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![pandas](https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=7B42BC)
@@ -46,9 +46,8 @@ I'm currently building my cloud and DevOps capabilities, working with AWS, Linux
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![pandas](https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
-![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Maven](https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
+![Gradle](https://img.shields.io/badge/Gradle-111111?style=for-the-badge&logo=gradle&logoColor=02303A)
 ![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![LaTeX](https://img.shields.io/badge/LaTeX-111111?style=for-the-badge&logo=latex&logoColor=008080)
 
@@ -93,29 +92,12 @@ I'm currently building my cloud and DevOps capabilities, working with AWS, Linux
 
 ## 🌱 Professional Development
 
-- **AWS Cloud Technical Essentials**
-  - 🏫 AWS (Coursera)
-  - 📅 2026
-
-- **Machine Learning Specialization**
-  - 🏫 Stanford University (Coursera)
-  - 📅 2026
-
-- **Agile Project Management**
-  - 🏫 Google (Coursera)
-  - 📅 2026
-
-- **How to Write and Publish a Scientific Paper**
-  - 🏫 École Polytechnique (Coursera)
-  - 📅 2025
-
-- **Evaluating Designs with Users**
-  - 🏫 University of Michigan (Coursera)
-  - 📅 2025
-
-- **Fundamentals of Software Design and Architecture**
-  - 🏫 Udemy
-  - 📅 2024
+- **AWS Cloud Technical Essentials** · AWS · 📅 2026
+- **Machine Learning Specialization** · Stanford University · 📅 2026
+- **Agile Project Management** · Google · 📅 2026
+- **How to Write and Publish a Scientific Paper** · École Polytechnique · 📅 2025
+- **Evaluating Designs with Users** · University of Michigan · 📅 2025
+- **Fundamentals of Software Design and Architecture** · Udemy · 📅 2024
 
 ---
 
@@ -138,8 +120,9 @@ I'm currently building my cloud and DevOps capabilities, working with AWS, Linux
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=devExponent&show_icons=true&theme=tokyonight" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devExponent&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss,less,mdx" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=devExponent&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
 
 ---
 
