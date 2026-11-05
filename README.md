@@ -53,6 +53,22 @@ I'm currently building my cloud and DevOps capabilities, working with AWS, Linux
 
 ---
 
+## 🎓 Education
+
+- **M.Sc. (Tech), Software Engineering**
+  - 🏫 University of Turku, Finland
+  - 📅 2025 to 2027 · Ongoing
+  - 📚 Coursework: `Data Structures and Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Design and Architecture` · `Software Testing` · `Human-Computer Interaction` · `Cloud Computing`
+
+- **B.Sc. Information and Communication Science**
+  - 🏫 University of Ilorin, Nigeria
+  - 📅 2018 to 2023
+  - 🏆 **Best Graduating Student, Ranked 1st**
+  - 📊 **CGPA: 4.56 / 5.00**
+
+
+---
+
 ## 🏆 Highlights
 
 - 🏅 **Dean's Recognition**  
@@ -75,20 +91,6 @@ I'm currently building my cloud and DevOps capabilities, working with AWS, Linux
 
 ---
 
-## 🎓 Education
-
-- **M.Sc. (Tech), Software Engineering**
-  - 🏫 University of Turku, Finland
-  - 📅 2025 to 2027 · Ongoing
-  - 📚 Coursework: `Data Structures and Algorithms` · `Object-Oriented Programming` · `Machine Learning` · `Database Design` · `Software Design and Architecture` · `Software Testing` · `Human-Computer Interaction` · `Cloud Computing`
-
-- **B.Sc. Information and Communication Science**
-  - 🏫 University of Ilorin, Nigeria
-  - 📅 2018 to 2023
-  - 🏆 **Best Graduating Student, Ranked 1st**
-  - 📊 **CGPA: 4.56 / 5.00**
-
----
 
 ## 🌱 Professional Development
 
