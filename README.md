@@ -34,7 +34,31 @@ I'm currently building my cloud and DevOps capabilities, working with AWS, Linux
 
 ---
 
-### Tools and Technologies I Use
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+---
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-111111?style=for-the-badge&logo=hibernate&logoColor=59666C)
+![Spring Security](https://img.shields.io/badge/Spring_Security-111111?style=for-the-badge&logo=springsecurity&logoColor=6DB33F)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-111111?style=for-the-badge&logo=spring&logoColor=6DB33F)
+
+---
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+---
+
+### Tools and Technologies
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![pandas](https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=F37626)
